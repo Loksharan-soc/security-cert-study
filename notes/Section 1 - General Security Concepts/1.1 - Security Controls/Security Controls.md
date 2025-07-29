@@ -1,7 +1,6 @@
 # Security Controls
 
-**Video Duration:** 11:48  
-**Professor Messer – CompTIA Security+**
+
 
 ---
 

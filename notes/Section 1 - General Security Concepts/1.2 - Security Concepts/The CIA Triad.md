@@ -1,7 +1,6 @@
 # The CIA Triad
 
-**Video Duration:** 5:17  
-**Professor Messer – CompTIA Security+**
+
 
 ---
 
